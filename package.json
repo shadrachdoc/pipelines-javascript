@@ -8,9 +8,7 @@
     "name": "",
     "email": ""
   },
-  {
-  "test:ci": "npm run test -- --watchAll=false",
-  },
+
   "dependencies": {
     "express": "^4.13.3",
     "mocha": "^3.0.0"
